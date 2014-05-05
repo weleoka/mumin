@@ -21,6 +21,6 @@ class MumintrolletTest extends \PHPUnit_Framework_TestCase
 
         $res = $mumin->getName();
         $exp = "My Name is Mumintrollet.";
-        $this->assertEqual($res, $exp, "The name does not match.");
+        $this->assertEquals($res, $exp, "The name does not match.");
     }
 }
