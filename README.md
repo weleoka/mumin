@@ -6,3 +6,6 @@ mumin
 [![Code Coverage](https://scrutinizer-ci.com/g/mosbth/mumin/badges/coverage.png?s=b166bd5ee057fe14a53b3b3fd10d5668708949b3)](https://scrutinizer-ci.com/g/mosbth/mumin/)
 
 Testing to integrate a repo with Travis CI and Scrutinizer
+
+
+edited by kawe14.
